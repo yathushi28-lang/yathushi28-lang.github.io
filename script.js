@@ -1,0 +1,1 @@
+console.log("Yathushiha Portfolio Website Loaded Successfully");
